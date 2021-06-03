@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+margin: 0;
+}
+body{
+    background-color: darkgray;
+}
+.main-menu{
+    background-color: darkblue;
+    padding: 20px;
+    }
+    .main-menu > a{
+        color: white;
+        text-decoration: none;
+    }
+    .main-menu > a:hover{
+        color: teal;
+    }
